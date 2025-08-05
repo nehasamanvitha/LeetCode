@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nehasamanvitha/Codes/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nehasamanvitha/Codes/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nehasamanvitha/Codes/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
