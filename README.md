@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nehasamanvitha/Codes/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
