@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
