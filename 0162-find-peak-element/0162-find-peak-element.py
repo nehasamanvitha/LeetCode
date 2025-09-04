@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        x=nums[0]
-        y=0
-        for i in range(len(nums)):
-            if nums[i]>x:
-                x=nums[i]
-                y=i
-        return y
-       
+        left,right=0,len(nums)-1
+        while left<right:
+            mid=(left+right)//2
+            if nums[mid]<nums[mid+1]:
+                left=mid+1
+            else:
+                right=mid
+        return left       
