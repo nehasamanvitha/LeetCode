@@ -10,6 +10,8 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
+        if not headA or not headB:
+            return None
         p1,p2=headA,headB
         while p1!=p2:
             p1=p1.next if p1 else headB
