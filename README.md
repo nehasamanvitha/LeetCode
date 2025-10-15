@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nehasamanvitha/Codes/tree/master/0263-ugly-number) |
+| [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -131,4 +132,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
