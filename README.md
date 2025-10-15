@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nehasamanvitha/Codes/tree/master/0263-ugly-number) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
