@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
+| [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nehasamanvitha/Codes/tree/master/0263-ugly-number) |
+| [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
+| [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Enumeration
