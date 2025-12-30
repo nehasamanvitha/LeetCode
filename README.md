@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nehasamanvitha/Codes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/nehasamanvitha/Codes/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nehasamanvitha/Codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nehasamanvitha/Codes/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehasamanvitha/Codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nehasamanvitha/Codes/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 ## Math
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 ## Binary Search
@@ -142,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
