@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nehasamanvitha/Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nehasamanvitha/Codes/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 ## Math
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nehasamanvitha/Codes/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/nehasamanvitha/Codes/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 ## Trie
