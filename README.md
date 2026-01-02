@@ -1,5 +1,26 @@
-# Codes
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions 🚀
+A curated collection of my LeetCode solutions, organized topic-wise to strengthen my Data Structures & Algorithms and prepare for coding interviews.
+
+- 🧠 Focus: Problem Solving & DSA
+- 💻 Language: C++
+- 🎯 Goal: Crack product-based company interviews
+- 🔁 Regularly updated using LeetHub
+
+## 📊 Stats
+- Total Problems Solved: 70+
+- Difficulty: Easy | Medium | Hard
+- Core Topics: Arrays, Hash Tables, Binary Search, Linked Lists, Recursion, DP
+
+> ⚡ This repository is automatically synced with LeetCode using LeetHub.
+
+## ⭐ Notable Problems
+- Two Sum – HashMap optimization  
+- Majority Element – Moore’s Voting Algorithm  
+- Range Sum Query– Prefix Sum  
+- Find First and Last Position – Binary Search  
+
+A collection of LeetCode questions to ace the coding interview!  
+Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
