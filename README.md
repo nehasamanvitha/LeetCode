@@ -36,6 +36,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0049-group-anagrams](https://github.com/nehasamanvitha/Codes/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nehasamanvitha/Codes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nehasamanvitha/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/nehasamanvitha/Codes/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
@@ -156,6 +157,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nehasamanvitha/Codes/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nehasamanvitha/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
