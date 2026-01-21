@@ -34,6 +34,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nehasamanvitha/Codes/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nehasamanvitha/Codes/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nehasamanvitha/Codes/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nehasamanvitha/Codes/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehasamanvitha/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nehasamanvitha/Codes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nehasamanvitha/Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehasamanvitha/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -190,6 +192,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nehasamanvitha/Codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 ## Stack
 |  |
