@@ -2,7 +2,7 @@
 A curated collection of my LeetCode solutions, organized topic-wise to strengthen my Data Structures & Algorithms and prepare for coding interviews.
 
 - 🧠 Focus: Problem Solving & DSA
-- 💻 Language: C++
+- 💻 Language: Python
 - 🎯 Goal: Crack product-based company interviews
 - 🔁 Regularly updated using LeetHub
 
