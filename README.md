@@ -199,5 +199,18 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
