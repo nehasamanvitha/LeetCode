@@ -50,6 +50,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0202-happy-number](https://github.com/nehasamanvitha/Codes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
