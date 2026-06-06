@@ -87,11 +87,13 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nehasamanvitha/Codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nehasamanvitha/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehasamanvitha/Codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nehasamanvitha/Codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nehasamanvitha/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
 ## Sorting
@@ -107,6 +109,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nehasamanvitha/Codes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nehasamanvitha/Codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nehasamanvitha/Codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nehasamanvitha/Codes/tree/master/0012-integer-to-roman) |
