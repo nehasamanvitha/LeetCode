@@ -115,6 +115,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0012-integer-to-roman](https://github.com/nehasamanvitha/Codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nehasamanvitha/Codes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nehasamanvitha/Codes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nehasamanvitha/Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nehasamanvitha/Codes/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/nehasamanvitha/Codes/tree/master/0171-excel-sheet-column-number) |
@@ -133,6 +134,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0013-roman-to-integer](https://github.com/nehasamanvitha/Codes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nehasamanvitha/Codes/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nehasamanvitha/Codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/nehasamanvitha/Codes/tree/master/0171-excel-sheet-column-number) |
@@ -189,10 +191,12 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
