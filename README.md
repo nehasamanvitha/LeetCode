@@ -134,6 +134,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0013-roman-to-integer](https://github.com/nehasamanvitha/Codes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nehasamanvitha/Codes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nehasamanvitha/Codes/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/nehasamanvitha/Codes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nehasamanvitha/Codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0151-reverse-words-in-a-string) |
