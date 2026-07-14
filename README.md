@@ -85,6 +85,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0202-happy-number](https://github.com/nehasamanvitha/Codes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/nehasamanvitha/Codes/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Linked List
 |  |
@@ -93,6 +94,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0021-merge-two-sorted-lists](https://github.com/nehasamanvitha/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nehasamanvitha/Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nehasamanvitha/Codes/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nehasamanvitha/Codes/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
