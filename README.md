@@ -52,6 +52,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nehasamanvitha/Codes/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
@@ -218,6 +219,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
@@ -241,6 +243,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0020-valid-parentheses](https://github.com/nehasamanvitha/Codes/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehasamanvitha/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Tree
