@@ -163,6 +163,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0171-excel-sheet-column-number](https://github.com/nehasamanvitha/Codes/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/nehasamanvitha/Codes/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehasamanvitha/Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -190,6 +191,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nehasamanvitha/Codes/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
@@ -298,4 +300,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nehasamanvitha/Codes/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
