@@ -180,6 +180,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0304-range-sum-query-2d-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/nehasamanvitha/Codes/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
@@ -265,6 +266,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nehasamanvitha/Codes/tree/master/0100-same-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nehasamanvitha/Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nehasamanvitha/Codes/tree/master/0100-same-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +296,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/nehasamanvitha/Codes/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -301,9 +305,14 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/nehasamanvitha/Codes/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
