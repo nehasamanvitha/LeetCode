@@ -56,6 +56,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
+| [1046-last-stone-weight](https://github.com/nehasamanvitha/Codes/tree/master/1046-last-stone-weight) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehasamanvitha/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -292,6 +293,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/nehasamanvitha/Codes/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
