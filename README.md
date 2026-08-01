@@ -52,6 +52,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0304-range-sum-query-2d-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/nehasamanvitha/Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
@@ -116,6 +117,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0203-remove-linked-list-elements](https://github.com/nehasamanvitha/Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nehasamanvitha/Codes/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nehasamanvitha/Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nehasamanvitha/Codes/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -216,6 +219,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0053-maximum-subarray](https://github.com/nehasamanvitha/Codes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nehasamanvitha/Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehasamanvitha/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -315,4 +319,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
