@@ -62,6 +62,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1406-stone-game-iii](https://github.com/nehasamanvitha/Codes/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehasamanvitha/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
+| [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
+| [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
