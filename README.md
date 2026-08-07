@@ -50,6 +50,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0283-move-zeroes](https://github.com/nehasamanvitha/Codes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
@@ -80,6 +81,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0217-contains-duplicate](https://github.com/nehasamanvitha/Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nehasamanvitha/Codes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nehasamanvitha/Codes/tree/master/0567-permutation-in-string) |
@@ -133,6 +135,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nehasamanvitha/Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nehasamanvitha/Codes/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
@@ -213,6 +216,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 ## Binary Search
@@ -266,6 +270,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0053-maximum-subarray](https://github.com/nehasamanvitha/Codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -313,12 +318,14 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/nehasamanvitha/Codes/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -349,4 +356,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nehasamanvitha/Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
