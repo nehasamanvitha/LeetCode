@@ -54,6 +54,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
+| [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nehasamanvitha/Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
@@ -85,6 +86,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nehasamanvitha/Codes/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -138,6 +140,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
+| [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -218,6 +221,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0169-majority-element](https://github.com/nehasamanvitha/Codes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 ## Binary Search
 |  |
@@ -319,6 +323,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehasamanvitha/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nehasamanvitha/Codes/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/nehasamanvitha/Codes/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -334,6 +339,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
 ## Binary Search Tree
 |  |
