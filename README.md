@@ -37,6 +37,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0049-group-anagrams](https://github.com/nehasamanvitha/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nehasamanvitha/Codes/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nehasamanvitha/Codes/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nehasamanvitha/Codes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nehasamanvitha/Codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehasamanvitha/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nehasamanvitha/Codes/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -248,6 +249,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/nehasamanvitha/Codes/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -362,6 +364,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nehasamanvitha/Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/nehasamanvitha/Codes/tree/master/0078-subsets) |
 ## Bucket Sort
 |  |
 | ------- |
