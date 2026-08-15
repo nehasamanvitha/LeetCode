@@ -55,6 +55,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nehasamanvitha/Codes/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/nehasamanvitha/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nehasamanvitha/Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nehasamanvitha/Codes/tree/master/0682-baseball-game) |
@@ -86,6 +87,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0347-top-k-frequent-elements](https://github.com/nehasamanvitha/Codes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nehasamanvitha/Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nehasamanvitha/Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/nehasamanvitha/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nehasamanvitha/Codes/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
@@ -213,6 +215,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0238-product-of-array-except-self](https://github.com/nehasamanvitha/Codes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/nehasamanvitha/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 ## Queue
 |  |
