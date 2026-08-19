@@ -63,6 +63,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
 | [1046-last-stone-weight](https://github.com/nehasamanvitha/Codes/tree/master/1046-last-stone-weight) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
+| [1386-cinema-seat-allocation](https://github.com/nehasamanvitha/Codes/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nehasamanvitha/Codes/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nehasamanvitha/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
@@ -92,6 +93,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0567-permutation-in-string](https://github.com/nehasamanvitha/Codes/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/nehasamanvitha/Codes/tree/master/0837-most-common-word) |
+| [1386-cinema-seat-allocation](https://github.com/nehasamanvitha/Codes/tree/master/1386-cinema-seat-allocation) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -261,6 +263,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0067-add-binary](https://github.com/nehasamanvitha/Codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nehasamanvitha/Codes/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/nehasamanvitha/Codes/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/nehasamanvitha/Codes/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
@@ -354,6 +357,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
+| [1386-cinema-seat-allocation](https://github.com/nehasamanvitha/Codes/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
