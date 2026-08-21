@@ -69,6 +69,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nehasamanvitha/Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0304-range-sum-query-2d-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nehasamanvitha/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
 ## Queue
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/nehasamanvitha/Codes/tree/master/0304-range-sum-query-2d-immutable) |
+| [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
