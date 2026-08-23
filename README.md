@@ -174,6 +174,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nehasamanvitha/Codes/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/nehasamanvitha/Codes/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/nehasamanvitha/Codes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -203,6 +204,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1544-make-the-string-great](https://github.com/nehasamanvitha/Codes/tree/master/1544-make-the-string-great) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nehasamanvitha/Codes/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/nehasamanvitha/Codes/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
@@ -364,6 +366,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0621-task-scheduler](https://github.com/nehasamanvitha/Codes/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/nehasamanvitha/Codes/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/nehasamanvitha/Codes/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/nehasamanvitha/Codes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
@@ -374,6 +377,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0486-predict-the-winner](https://github.com/nehasamanvitha/Codes/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/nehasamanvitha/Codes/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/nehasamanvitha/Codes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
