@@ -206,6 +206,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nehasamanvitha/Codes/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/nehasamanvitha/Codes/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nehasamanvitha/Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasamanvitha/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0219-contains-duplicate-ii](https://github.com/nehasamanvitha/Codes/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/nehasamanvitha/Codes/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nehasamanvitha/Codes/tree/master/0643-maximum-average-subarray-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nehasamanvitha/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
 | ------- |
