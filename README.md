@@ -129,6 +129,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0203-remove-linked-list-elements](https://github.com/nehasamanvitha/Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nehasamanvitha/Codes/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nehasamanvitha/Codes/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nehasamanvitha/Codes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
