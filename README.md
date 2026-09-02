@@ -71,6 +71,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nehasamanvitha/Codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nehasamanvitha/Codes/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1927-sum-game](https://github.com/nehasamanvitha/Codes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nehasamanvitha/Codes/tree/master/2029-stone-game-ix) |
 | [2507-number-of-common-factors](https://github.com/nehasamanvitha/Codes/tree/master/2507-number-of-common-factors) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nehasamanvitha/Codes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nehasamanvitha/Codes/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
