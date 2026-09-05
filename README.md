@@ -72,6 +72,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3731-find-missing-elements](https://github.com/nehasamanvitha/Codes/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nehasamanvitha/Codes/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/nehasamanvitha/Codes/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0560-subarray-sum-equals-k](https://github.com/nehasamanvitha/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nehasamanvitha/Codes/tree/master/0724-find-pivot-index) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nehasamanvitha/Codes/tree/master/3546-equal-sum-grid-partition-i) |
+| [3904-smallest-stable-index-ii](https://github.com/nehasamanvitha/Codes/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
 | ------- |
